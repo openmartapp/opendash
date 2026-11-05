@@ -21,6 +21,13 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.1.2 (2026-11-05)
+
+- The paid version needs the phone's clock right: with the date set back, OpenDash says so and
+  stays on the free version until automatic date and time is on again.
+- YouTube: only real video addresses are opened.
+- The update dialog gives the right download size (about 6 MB).
+
 ### 0.1.1 (2026-11-05)
 
 - The paid version: the YouTube player's controls, its state on Dash Player's card and the car's
