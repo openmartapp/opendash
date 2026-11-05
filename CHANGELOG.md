@@ -21,6 +21,12 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.1.1 (2026-11-05)
+
+- The paid version: the YouTube player's controls, its state on Dash Player's card and the car's
+  keys work as soon as the code is activated, without restarting OpenDash, and keep working after
+  switching player or when the player opens again.
+
 ### 0.1.0 (2026-11-05)
 
 - OpenDash is no longer open source: the code is private and this repository holds the releases
