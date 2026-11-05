@@ -21,6 +21,11 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.1.3 (2026-11-05)
+
+- A new icon for OpenDash, easier to see on the car's dark screen, and a matching one for Dash
+  Player.
+
 ### 0.1.2 (2026-11-05)
 
 - The paid version needs the phone's clock right: with the date set back, OpenDash says so and
