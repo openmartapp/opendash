@@ -21,6 +21,18 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.1.4 (2026-11-05)
+
+- Android Auto's Assistant: "navigate to …" while OpenDash is on the car screen now opens the
+  directions in your navigation app on the phone (it used to do nothing), also in the free
+  version. OpenDash stays on the car screen.
+- Directions asked for on the car start at once when the phone's screen is off, or it is locked
+  with a swipe or kept unlocked by Smart Lock.
+- With the phone locked by a PIN, pattern or password, the car shows a short notice at the top:
+  unlock the phone for the directions to start, or open the navigation app on the car and ask there.
+- The new-version notification now shows on Android 11 and 12.
+- OpenDash's notifications use the new icon.
+
 ### 0.1.3 (2026-11-05)
 
 - A new icon for OpenDash, easier to see on the car's dark screen, and a matching one for Dash

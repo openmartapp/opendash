@@ -29,9 +29,19 @@ Táp Lô › Cài đặt › **Lệnh giọng nói**:
   nền khi màn hình xe đang hiện nó. Có quyền này, Táp Lô hiện một cửa sổ trong suốt 1 điểm ảnh trong chốc
   lát để mở chỉ đường.
 
-Chỉ đường mở trong app dẫn đường trên điện thoại, app đó đọc hướng dẫn qua loa xe; khi điện thoại đang
-khoá, chỉ đường bắt đầu ngay khi mở khoá (trong vòng 5 phút). Màn hình xe vẫn hiện
-Táp Lô (Android Auto chỉ hiện một app dẫn đường mỗi lúc).
+Chỉ đường mở trong app dẫn đường trên điện thoại, app đó đọc hướng dẫn qua loa xe. Màn hình xe vẫn hiện
+Táp Lô (Android Auto chỉ hiện một app dẫn đường mỗi lúc), với hướng rẽ kế tiếp trên video. Trợ lý của
+Android Auto cũng vậy: nói "chỉ đường đến …" khi Táp Lô đang trên màn hình xe thì chỉ đường cũng mở trong
+app đó, kể cả ở bản miễn phí.
+
+Khi điện thoại đang khoá:
+
+- Màn hình chỉ tắt, khoá vuốt, hoặc Smart Lock đang tin cậy máy: chỉ đường bắt đầu ngay.
+- Khoá bằng mã PIN, hình vẽ hoặc mật khẩu: Android không cho app dẫn đường chạy khi máy còn khoá. Xe báo
+  điều đó trong vài giây, và chỉ đường bắt đầu ngay khi bạn mở khoá (trong vòng 5 phút). Hoặc mở Google
+  Maps (hay Waze) trên xe rồi ra lệnh ở đó: app đó dẫn đường được khi máy vẫn khoá.
+- Mẹo: bật Smart Lock (Cài đặt › Màn hình khoá › Smart Lock › Thiết bị tin cậy) với Bluetooth của xe, máy
+  sẽ không khoá khi đang nối với xe, nên chỉ đường bắt đầu ngay.
 
 ## Bộ lệnh
 

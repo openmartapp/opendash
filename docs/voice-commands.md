@@ -30,9 +30,20 @@ OpenDash › Settings › **Voice commands**:
   opening another one, and OpenDash runs in the background while the car shows it. With this
   permission it shows a 1-pixel clear window for a moment to open the directions.
 
-Directions open in the navigation app on the phone, which speaks through the car; with the phone
-locked, they start once it is unlocked (within 5 minutes). The car screen
-keeps showing OpenDash (Android Auto shows one navigation app at a time).
+Directions open in the navigation app on the phone, which speaks through the car. The car screen
+keeps showing OpenDash (Android Auto shows one navigation app at a time), with the next turn over
+the video. The same goes for Android Auto's own Assistant: "navigate to …" while OpenDash is on the
+car screen opens the directions in that app too, also in the free version.
+
+With the phone locked:
+
+- Screen off, a swipe lock, or Smart Lock trusting the phone: the directions start at once.
+- A PIN, pattern or password: Android does not let navigation apps start while it is locked. The
+  car says so for a few seconds, and the directions start as soon as you unlock the phone (within
+  5 minutes). Or open Google Maps (or Waze) on the car and ask there: it guides with the phone
+  locked.
+- Tip: Smart Lock (Settings › Lock screen › Smart Lock › Trusted devices) with the car's Bluetooth
+  keeps the phone unlocked while it is connected to the car, so directions start at once.
 
 ## The rules
 
