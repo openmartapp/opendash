@@ -21,6 +21,18 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.1.6 (2026-11-06)
+
+- When the car connects, OpenDash opens on the last YouTube video or library file you played and
+  plays it (a stream is skipped for what played before it).
+- Fixed: on some phones (seen on a Xiaomi), the paid version's buttons over the YouTube video did
+  nothing and the video reloaded each time it came back on the car screen. Updating is enough; the
+  licence code does not need to be entered again (the phone needs the internet once).
+- Fixed: after OpenDash was updated, the paid version's buttons over the YouTube video could do
+  nothing for up to a day.
+- Fixed: in Direct mode, OpenDash kept the phone busy in the background once it had started (a
+  warm phone and a draining battery), until it was next used on the car.
+
 ### 0.1.5 (2026-11-06)
 
 - Settings › **Speed bubble size**: small (like the voice button), medium, large (as before, the

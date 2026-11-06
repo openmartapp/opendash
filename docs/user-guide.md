@@ -28,6 +28,9 @@ brings them back.
   screen (access to music and videos, streams and files, favorites); on the car you only pick.
 - **Pick up where it stopped:** a video or song opened again goes on from where it stopped, with
   **Start over** for a few seconds.
+- **Starts on what played last:** when the car connects, OpenDash opens on the last YouTube video
+  or file from the library you played and plays it; a stream (a radio, a live link) is skipped
+  for what played before it.
 - **Favorites:** ☆ while something plays on the car; the library's **Favorites** tab plays them,
   and the ☆ at the top of the phone's home screen manages them.
 - **Next turn:** while Google Maps guides, its next turn shows beside the 🎤, read from its

@@ -28,6 +28,8 @@ mọi thứ vẫn như cũ.
   video, stream và tệp, yêu thích); trên xe chỉ chọn để phát.
 - **Phát tiếp từ chỗ dừng:** video hay bài hát mở lại sẽ phát tiếp từ chỗ đã dừng, kèm nút **Phát lại từ
   đầu** trong vài giây.
+- **Mở lại thứ đã phát gần nhất:** khi nối xe, Táp Lô mở và phát video YouTube hoặc tệp trong thư viện
+  bạn phát gần nhất; stream (radio, link trực tiếp) được bỏ qua để phát thứ trước đó.
 - **Yêu thích:** bấm ☆ khi đang phát trên xe; thẻ **Yêu thích** của thư viện phát lại chúng, còn nút ☆ ở
   trên cùng màn hình chính của điện thoại để quản lý.
 - **Hướng rẽ kế tiếp:** khi Google Maps đang dẫn đường, hướng rẽ kế tiếp hiện cạnh nút 🎤, đọc từ thông báo
