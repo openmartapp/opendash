@@ -40,8 +40,9 @@ mọi thứ vẫn như cũ.
   tiếp, **Phụ đề**, **Tải lại** và chọn **Trình phát**. Thẻ media của xe và nút media trên vô lăng cũng
   dùng được khi đã cài [Kênh Xe](#kênh-xe-nút-media-của-xe).
 - **Tốc độ:** tốc độ và giới hạn tốc độ hiện trên video, lấy từ Cài đặt › **Nguồn tốc độ** (GPS điện
-  thoại, OpenStreetMap, WazeMod). Số tốc độ chuyển đỏ khi vượt giới hạn. Cài và kết nối WazeMod:
-  [`wazemod.md`](wazemod.md).
+  thoại, OpenStreetMap, WazeMod). Số tốc độ chuyển đỏ khi vượt giới hạn. Cài đặt › **Cỡ bong bóng tốc
+  độ** cho to hay nhỏ; bong bóng nằm phía người lái (Cài đặt › **Tay lái bên phải**). Cài và kết nối
+  WazeMod: [`wazemod.md`](wazemod.md).
 - **Trình phát:** Cài đặt › **Trình phát YouTube**. **Trang YouTube** phát được mọi video; **Trình phát
   IFrame** gọn hơn, nhưng không phát được video mà chủ kênh không cho nhúng vào trang khác.
 - **Chất lượng hình** theo màn hình xe: 480p khi màn hình xe cao dưới 720 điểm ảnh, 720p tới 1440,
@@ -121,6 +122,7 @@ Chạm 🎤 ở trên cùng màn hình xe rồi nói. Cài đặt, bộ lệnh v
 | **Giữ app chạy khi tắt màn hình** | Cho máy tạm dừng màn hình ảo khi tắt màn hình |
 | **App yêu thích** | App đứng đầu trong danh sách chọn |
 | **Nguồn tốc độ**, **Xe phía trước** | Tốc độ, giới hạn và khoảng cách xe phía trước lấy từ đâu, theo thứ tự |
+| **Cỡ bong bóng tốc độ** | Nhỏ, vừa, to (mặc định) hoặc rất to, trên video YouTube |
 | **Lệnh giọng nói** | Nút 🎤, ngôn ngữ, bộ lệnh và app chỉ đường |
 | **Thông báo** | Thông báo "đang chạy" của Táp Lô, có nút Dừng; tự tắt khoảng 10 giây sau khi Android Auto kết thúc |
 | **Xuất nhật ký** | Lưu nhật ký để gửi kèm báo lỗi ([`troubleshooting.md`](troubleshooting.md)) |

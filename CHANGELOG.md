@@ -21,6 +21,16 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.1.5 (2026-11-06)
+
+- Settings › **Speed bubble size**: small (like the voice button), medium, large (as before, the
+  default) or very large, for the speed and limit over the YouTube video.
+- The speed bubble sits on the driver's side, in line with the voice button (on the right with
+  Settings › Driver on the right).
+- The voice button sits level with the car's own buttons at the top of the screen.
+- A licence code moves to the last phone it is entered on; the phone before turns back to the free
+  version and says why.
+
 ### 0.1.4 (2026-11-05)
 
 - Android Auto's Assistant: "navigate to …" while OpenDash is on the car screen now opens the

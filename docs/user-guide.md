@@ -41,7 +41,8 @@ brings them back.
   keys work too when [Dash Player](#dash-player-the-cars-media-controls) is installed.
 - **Speed:** the speed and the speed limit show over the video, from the sources in Settings ›
   **Speed sources** (phone GPS, OpenStreetMap, WazeMod). The speed turns red when it is over the
-  limit. Installing and connecting WazeMod: [`wazemod.md`](wazemod.md).
+  limit. Settings › **Speed bubble size** makes it smaller or larger; it sits on the driver's side
+  (Settings › **Driver on the right**). Installing and connecting WazeMod: [`wazemod.md`](wazemod.md).
 - **Player:** Settings › **YouTube player**. The YouTube website plays every video; the IFrame
   player is a plainer page, but videos their owners keep off other sites do not play in it.
 - **Picture quality** follows the car screen: 480p on a screen under 720 pixels high, 720p up to
@@ -123,6 +124,7 @@ Tap 🎤 at the top of the car screen and speak. Settings, the rules and how to 
 | **Keep apps running with the screen off** | For phones that pause virtual displays when the screen turns off |
 | **Favorite apps** | Apps shown first in the pickers |
 | **Speed sources**, **Vehicle ahead** | Where the speed, limit and distance ahead come from, in order |
+| **Speed bubble size** | Small, medium, large (default) or very large, over the YouTube video |
 | **Voice commands** | The 🎤 button, its language, rules and app for directions |
 | **Notifications** | OpenDash's "running" notification, with a Stop button; it goes away by itself about 10 seconds after Android Auto ends |
 | **Export log** | Saves a log to send with a bug report ([`troubleshooting.md`](troubleshooting.md)) |
