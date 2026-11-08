@@ -29,6 +29,10 @@ sources** (install guide, step 7), then disconnect and reconnect the car.
 **Android Auto shows "Communication error 14" with the Desktop Head Unit.** The DHU's certificate
 has expired for older Android Auto versions; update Android Auto (17.x works).
 
+**Android Auto closes after changing Settings › Car screen.** Its bar at the bottom can keep
+OpenDash's old icon for a few minutes, and tapping that icon closes Android Auto. Open OpenDash from
+Android Auto's list of apps instead; if Android Auto closed, reconnect the phone.
+
 **The car screen shows an old picture after updating or reinstalling OpenDash.** OpenDash asks the
 car for a new surface after about 3 seconds (you may see "Reconnecting…" briefly). If it stays
 frozen, open the car's app launcher and choose OpenDash again.
@@ -103,6 +107,12 @@ a reconnect to list it, and "Unknown sources" on (install guide, step 7).
 **The media card says "Open OpenDash on the car".** Dash Player only passes things on: open
 OpenDash on the car screen once, then the card and the steering-wheel keys control it.
 
+**The steering-wheel keys do nothing (often on vivo, iQOO, Xiaomi, OPPO).** Android Auto sends them
+to its media app, Dash Player, which must be running. OpenDash keeps it running, but some phones only
+let Android Auto start it. Make Dash Player Android Auto's media app: open **Dash Player** once from
+Android Auto's app list on the car; Android Auto then starts it each time the car connects. If you
+play another music app, open Dash Player again afterwards.
+
 **"Play … on Dash Player" plays something else.** Say the name as the phone shows it (**Kênh Xe** on
 a phone set to Vietnamese). The Assistant picks apps by that name; OpenDash's own 🎤 needs no name.
 
@@ -110,6 +120,12 @@ a phone set to Vietnamese). The Assistant picks apps by that name; OpenDash's ow
 
 **"Allow OpenDash to use the microphone".** Allow it on the phone when asked, or in Settings ›
 Voice commands › **Allow the microphone**.
+
+**"Allow the microphone for Speech Recognition and Synthesis from Google" (or another app's name),
+though OpenDash has it.** The phone's speech recognizer hears the commands, and Android gives it
+the sound only if it may use the microphone too, even when the car's microphone listens. On some
+phones it may not, out of the box. Settings › Voice commands › **Open its settings**, then
+Permissions › Microphone › Allow.
 
 **"Speech recognition needs the internet" or "is not available".** OpenDash uses the phone's speech
 recognizer, usually Google's: it needs the internet and must support the language heard. Check that

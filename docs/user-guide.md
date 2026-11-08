@@ -33,9 +33,27 @@ brings them back.
   for what played before it.
 - **Favorites:** ☆ while something plays on the car; the library's **Favorites** tab plays them,
   and the ☆ at the top of the phone's home screen manages them.
+- **Your YouTube account:** Settings › **YouTube account** › **Sign in** opens Google's sign-in
+  page on the phone. Once signed in, YouTube on the car suggests videos for you, and the library
+  gets a **YouTube** tab with your liked videos, Watch later, playlists, mixes and history: pick a
+  list, then a video; the rest of the list plays after it. Videos played on the car go into your
+  YouTube history. **Sign out** in the same place.
 - **Next turn:** while Google Maps guides, its next turn shows beside the 🎤, read from its
   notification once you allow OpenDash to read notifications (nothing is stored). Settings ›
   **Next turn in Dash Player's card** shows it in the media card too.
+- **Car screen:** Settings › **Car screen** chooses how OpenDash shows on Android Auto, from the
+  next connection.
+  - **Classic** (the default): OpenDash's own look. Directions open the navigation app on the
+    phone (display over other apps needed). Once Google Maps has been opened on the car screen,
+    its next turn no longer shows on OpenDash.
+  - **Alongside Google Maps** (recent Android Auto): Google Maps keeps showing its next
+    turn, and pops up each turn over OpenDash. Directions open Maps on the car screen, even with
+    the phone locked, and the music plays on. A one-line bar at the top shows the next turn or
+    what plays; OpenDash's buttons sit at the top beside it. OpenDash opens from Android Auto's
+    list of apps. On wide screens Android Auto shows a Maps card beside OpenDash, which then
+    cannot fill the screen.
+  - With both, the voice button also works while Maps has the car screen: OpenDash listens without
+    coming back ([voice commands](voice-commands.md)).
 
 - **Choose what plays:** on the phone, search in **Direct: YouTube on the car**; on the car, tap 🔍
   at the top and type, or tap 🎤 and say it ([voice commands](voice-commands.md)).

@@ -21,6 +21,48 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.2.1 (2026-11-08)
+
+- Fixed: after OpenDash was restarted, Update could fail with "Can't download" (a file name made
+  from the release page). Updating to this version is enough; if it happens while updating to it,
+  open OpenDash again later and tap Update.
+
+- Fixed: on some phones (seen on a Sony, Android 11) voice commands on the car could not listen while
+  the phone's screen was off. OpenDash now keeps the microphone while the car runs it (a quiet
+  notification says so), and the car tells the phone's refusal apart from a missing permission.
+
+- Buttons: the steering wheel's Play/Pause key can now be learnt and set like the others (update
+  Dash Player too).
+
+- The car's media keys reach OpenDash more reliably: OpenDash keeps Dash Player running while the
+  car is connected, also when the phone closed it.
+
+- Fixed: on some phones (seen on a vivo iQOO) voice commands always said to allow the microphone,
+  though OpenDash had it: the phone's speech recognizer lacked it. The car now names the app that
+  needs it, and Settings › Voice commands opens its settings.
+- The buttons at the top of the car screen leave out the one for what is shown (YouTube, Library
+  or Streams).
+- Fixed: OpenDash could go a day or more without telling you about a new version when it had kept
+  running in the background; it now looks for one whenever you open it (at most every 6 hours).
+- Settings › Speed sources tells a Waze that cannot share its data (Google's Waze, or a WazeMod
+  Legacy or Beta build) apart from no Waze at all, and says which WazeMod to install.
+- Settings › Speed sources: WazeMod (Wi-Fi HUD link), for every WazeMod build, also those without
+  the data API: OpenDash becomes WazeMod's Wi-Fi HUD on the phone itself. Off by default, for those
+  who use a real HUD.
+- Settings: the explanations of each setting now open from an (i) next to its title.
+- Buttons: keys are called by their name and symbol ("⏭ Next button", "▲ Up button (phone,
+  remote)") instead of Android's key codes.
+- Settings › **Car screen**: **Classic** (as before) or **Alongside Google Maps** (recent
+  Android Auto). With the second, Google Maps keeps showing its next turn after it was opened on
+  the car, directions asked of OpenDash open Maps on the car screen while the music plays on, and a
+  bar at the top of the car screen shows the next turn or what plays. OpenDash then opens from
+  Android Auto's list of apps. The change applies from the next time the phone connects.
+- The voice button works while another app (Google Maps) has the car screen: OpenDash listens
+  without coming back and says what it heard and did in a notice on the car screen.
+- Settings › **YouTube account**: sign in to YouTube on the phone. YouTube on the car then
+  suggests videos for you, and the library on the car gets a **YouTube** tab with your liked
+  videos, Watch later, playlists, mixes and history; a list plays on in its order.
+
 ### 0.1.6 (2026-11-06)
 
 - When the car connects, OpenDash opens on the last YouTube video or library file you played and

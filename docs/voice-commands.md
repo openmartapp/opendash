@@ -32,7 +32,14 @@ OpenDash › Settings › **Voice commands**:
 
 Directions open in the navigation app on the phone, which speaks through the car. The car screen
 keeps showing OpenDash (Android Auto shows one navigation app at a time), with the next turn over
-the video. The same goes for Android Auto's own Assistant: "navigate to …" while OpenDash is on the
+the video. With Settings › **Car screen** › **Alongside Google Maps**, directions open in
+Google Maps on the car screen instead (no need for display over other apps), and the music plays on.
+
+**While another app has the car screen** (Google Maps): the voice button you chose for OpenDash
+(Settings › Voice button) still works. OpenDash listens without coming back on the car screen: a
+notice at the top of the car screen says it is listening, then what it heard and did. Directions
+then open as above. A music command changes the song, but the video stays paused under the other
+app unless Settings › **Play on behind other apps** is on. The same goes for Android Auto's own Assistant: "navigate to …" while OpenDash is on the
 car screen opens the directions in that app too, also in the free version.
 
 With the phone locked:
@@ -44,6 +51,8 @@ With the phone locked:
   locked.
 - Tip: Smart Lock (Settings › Lock screen › Smart Lock › Trusted devices) with the car's Bluetooth
   keeps the phone unlocked while it is connected to the car, so directions start at once.
+- With Settings › **Car screen** › **Alongside Google Maps**, none of this applies:
+  directions go to Google Maps on the car screen, which guides with the phone locked.
 
 ## The rules
 

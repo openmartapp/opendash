@@ -32,9 +32,25 @@ mọi thứ vẫn như cũ.
   bạn phát gần nhất; stream (radio, link trực tiếp) được bỏ qua để phát thứ trước đó.
 - **Yêu thích:** bấm ☆ khi đang phát trên xe; thẻ **Yêu thích** của thư viện phát lại chúng, còn nút ☆ ở
   trên cùng màn hình chính của điện thoại để quản lý.
+- **Tài khoản YouTube của bạn:** Cài đặt › **Tài khoản YouTube** › **Đăng nhập** mở trang đăng nhập của
+  Google trên điện thoại. Đăng nhập xong, YouTube trên xe đề xuất video theo tài khoản của bạn, thư viện
+  có thêm thẻ **YouTube** với video đã thích, Xem sau, danh sách phát, danh sách kết hợp và video đã xem:
+  chọn một danh sách rồi một video, phần còn lại của danh sách phát tiếp sau đó. Video phát trên xe vào
+  lịch sử YouTube của bạn. **Đăng xuất** cũng ở chỗ đó.
 - **Hướng rẽ kế tiếp:** khi Google Maps đang dẫn đường, hướng rẽ kế tiếp hiện cạnh nút 🎤, đọc từ thông báo
   của Maps khi bạn cho Táp Lô đọc thông báo (không lưu lại). Cài đặt › **Hướng rẽ trong thẻ Kênh Xe** hiện
   thêm trong thẻ media.
+- **Màn hình xe:** Cài đặt › **Màn hình xe** chọn cách Táp Lô hiện trên Android Auto, áp dụng từ lần kết nối
+  sau.
+  - **Cổ điển** (mặc định): giao diện riêng của Táp Lô. Chỉ đường mở app dẫn đường trên điện thoại (cần quyền
+    hiển thị trên ứng dụng khác). Khi đã mở Google Maps trên màn xe thì Táp Lô không còn hiện hướng rẽ.
+  - **Chạy cùng Google Maps** (Android Auto bản mới): Google Maps vẫn hiện hướng rẽ, và báo từng khúc rẽ đè
+    lên Táp Lô. Chỉ đường mở Maps ngay trên màn xe, kể cả khi máy đang khoá, nhạc vẫn phát. Thanh một dòng ở
+    trên cùng hiện hướng rẽ hoặc bài đang phát; các nút của Táp Lô nằm ở trên cùng, cạnh thanh này. Táp Lô mở
+    từ danh sách app của Android Auto. Màn rộng thì Android Auto hiện thêm thẻ Maps bên cạnh, khi đó Táp Lô
+    không chiếm cả màn hình được.
+  - Ở cả hai kiểu, nút giọng nói vẫn dùng được khi Maps đang hiện: Táp Lô nghe mà không hiện lại trên màn xe
+    ([lệnh giọng nói](voice-commands.md)).
 
 - **Chọn nội dung:** trên điện thoại, tìm trong **Trực tiếp: YouTube trên xe**; trên xe, chạm 🔍 ở trên
   cùng rồi gõ, hoặc chạm 🎤 rồi nói ([lệnh giọng nói](voice-commands.md)).

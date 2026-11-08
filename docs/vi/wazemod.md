@@ -15,8 +15,8 @@ cuối bài).
 Trên [wazemod.io.vn](https://wazemod.io.vn/), bấm **Download** (hoặc **Tải APK Waze Mod** trên
 menu), rồi chọn:
 
-- **Phiên bản.** Lấy bản mới nhất được ghi là ổn định hoặc mới nhất, không lấy bản Beta: bản Beta có
-  thể chưa có API dữ liệu, khi đó Táp Lô không đọc được.
+- **Phiên bản.** Lấy bản mới nhất được ghi là ổn định hoặc mới nhất (V14 trở lên), không lấy bản
+  Beta hay bản **Legacy**: các bản này có thể không có API dữ liệu, khi đó Táp Lô không đọc được.
 - **Phiên bản Android** của máy (Táp Lô cần Android 11 trở lên).
 - **"Có Android Auto"** nếu muốn dùng cả Waze trên màn hình xe; **"Đã gỡ AA"** thì không có.
 - **Kiểu cài:**
@@ -45,10 +45,30 @@ Trang **Hướng dẫn cài đặt APK** trên website của WazeMod có hình m
 Có thể thu hồi quyền trong WazeMod: Cài đặt › Ứng dụng đã kết nối. Khi đó Táp Lô dùng nguồn tiếp
 theo trong danh sách.
 
+## Không có API dữ liệu: Táp Lô làm HUD Wi-Fi của WazeMod
+
+Một số bản WazeMod (các bản **Legacy**) không có API dữ liệu, nhưng bản nào cũng nối được với HUD
+qua Wi-Fi. Táp Lô có thể đóng vai HUD đó, ngay trên điện thoại:
+
+1. Trong Táp Lô: Cài đặt › **Nguồn tốc độ**, bật **WazeMod (kết nối HUD Wi-Fi)**.
+2. Trong cài đặt của WazeMod: **Kết nối với thiết bị** › thẻ **HUD WazeMod (Wi-Fi)**:
+   - **Địa chỉ IP / hostname HUD**: `127.0.0.1`
+   - **Cổng WebSocket**: `8765`
+   - **Đường dẫn WebSocket**: `/hlp`
+   - rồi bật **Bật HUD WazeMod**.
+3. Mở bản đồ Waze. Dòng nguồn trong Táp Lô báo **Đã kết nối** khi màn hình xe đang mở Táp Lô.
+
+WazeMod chỉ nối được một HUD. Nếu bạn dùng HUD thật với WazeMod, để tắt nguồn này và dùng nguồn API
+dữ liệu, hoặc chọn một trong hai. Khi không tìm thấy HUD trong 2 phút, WazeMod ngừng tìm cho đến khi
+bản đồ Waze được mở lại; Táp Lô tự mở Waze khi màn hình xe bắt đầu (tùy chọn **Tự mở Waze khi chưa có
+số liệu**).
+
 ## Khi không chạy
 
-- **"Chưa cài"** dưới dòng WazeMod: bản đang cài không có API dữ liệu (thường là bản Beta). Cài bản
-  ổn định mới nhất.
+- **"Bản Waze này không chia sẻ dữ liệu"** dưới dòng WazeMod: Waze trên máy là bản của Google, hoặc
+  bản WazeMod không có API dữ liệu (bản Legacy, bản Beta, hoặc cũ hơn V14). Cài bản ổn định mới
+  nhất.
+- **"Chưa cài"** dưới dòng WazeMod: không tìm thấy Waze nào trên máy.
 - **Không có tốc độ khi chạy xe:** WazeMod chỉ cho tốc độ khi đang mở và đã bắt được GPS; mở WazeMod
   trước khi đi. Kiểm tra WazeMod đang bật trong **Nguồn tốc độ**.
 - **WazeMod chưa cho phép:** bấm lại **Kết nối WazeMod** và chọn **Cho phép**.

@@ -25,6 +25,10 @@ hiệu hoá không hiện.
 **Táp Lô không có trong danh sách app trên xe.** Bật chế độ nhà phát triển và **Nguồn không xác định**
 của Android Auto ([hướng dẫn cài đặt](install.md), bước 7), rồi ngắt và kết nối lại xe.
 
+**Android Auto bị tắt sau khi đổi Cài đặt › Màn hình xe.** Thanh dưới của Android Auto có thể giữ biểu
+tượng cũ của Táp Lô vài phút, và chạm vào biểu tượng đó làm Android Auto tắt. Hãy mở Táp Lô từ danh sách
+app của Android Auto; nếu Android Auto đã tắt, kết nối lại điện thoại.
+
 **Màn hình xe hiện hình cũ sau khi cập nhật hoặc cài lại Táp Lô.** Táp Lô xin xe vùng vẽ mới sau khoảng
 3 giây (có thể thấy "Đang kết nối lại…" một lát). Nếu vẫn đứng hình, mở danh sách app trên xe và chọn
 Táp Lô lần nữa.
@@ -78,6 +82,12 @@ phải bật Nguồn không xác định ([hướng dẫn cài đặt](install.m
 **Thẻ media hiện "Mở Táp Lô trên xe".** Kênh Xe chỉ chuyển lệnh: mở Táp Lô trên màn hình xe một lần, sau
 đó thẻ media và nút vô lăng điều khiển được.
 
+**Nút vô lăng không có tác dụng (hay gặp trên vivo, iQOO, Xiaomi, OPPO).** Android Auto gửi phím cho app
+media của nó là Kênh Xe, và Kênh Xe phải đang chạy. Táp Lô giữ cho Kênh Xe chạy, nhưng một số điện thoại chỉ
+cho Android Auto khởi động nó. Hãy đặt Kênh Xe làm app media của Android Auto: mở **Kênh Xe** một lần từ danh
+sách app của Android Auto trên xe; từ đó mỗi lần nối xe Android Auto tự khởi động nó. Nếu bạn nghe nhạc bằng
+app khác, mở lại Kênh Xe sau đó.
+
 **"Phát … trên Kênh Xe" lại phát thứ khác.** Đọc đúng tên app như điện thoại hiện (**Kênh Xe** trên máy
 cài tiếng Việt). Trợ lý chọn app theo tên đó; nút 🎤 của Táp Lô thì không cần gọi tên.
 
@@ -85,6 +95,12 @@ cài tiếng Việt). Trợ lý chọn app theo tên đó; nút 🎤 của Táp 
 
 **"Hãy cho Táp Lô dùng micro".** Cho phép trên điện thoại khi được hỏi, hoặc ở Cài đặt › Lệnh giọng nói ›
 **Cho phép dùng micro**.
+
+**"Cho Speech Recognition and Synthesis from Google dùng micro" (hoặc tên một app khác), dù Táp Lô đã có
+quyền micro.** Lệnh giọng nói do bộ nhận dạng giọng nói của điện thoại nghe, và Android chỉ đưa âm thanh
+cho nó khi nó cũng được dùng micro, kể cả khi nghe bằng micro của xe. Trên một số điện thoại, app này
+mặc định chưa có quyền đó. Cài đặt › Lệnh giọng nói › **Mở cài đặt của app đó**, rồi Quyền › Micro ›
+Cho phép.
 
 **"Nhận dạng giọng nói cần có mạng" hoặc "Điện thoại này không có nhận dạng giọng nói".** Táp Lô dùng
 bộ nhận dạng giọng nói của điện thoại, thường là của Google: cần có mạng và phải hỗ trợ ngôn ngữ đang
