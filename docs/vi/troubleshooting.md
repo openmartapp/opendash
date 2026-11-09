@@ -17,6 +17,10 @@ mạng đó) trước khi khởi động Shizuku.
 **"Cho phép Táp Lô" báo bị từ chối.** Trước đó bạn đã chọn Từ chối. Mở Shizuku › Ứng dụng được ủy quyền
 và bật Táp Lô.
 
+**Cài hoặc cập nhật thì hiện "Nên quét ứng dụng".** Google Play Protect hỏi về app nó chưa thấy, và mỗi
+bản mới của Táp Lô hay Kênh Xe đều mới với nó. Chạm **Quét ứng dụng**, hoặc **Chi tiết khác** › **Cài
+đặt mà không quét**. Chỉ tải Táp Lô từ trang phát hành của nó.
+
 **Thiếu một app trong danh sách.** Danh sách chỉ có app có biểu tượng ở màn hình chính. App bạn đã vô
 hiệu hoá không hiện.
 

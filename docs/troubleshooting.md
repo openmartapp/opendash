@@ -18,6 +18,10 @@ drops or you change networks. Turn it back on (and allow the network) before sta
 **"Allow OpenDash" shows permission denied.** You chose Deny earlier. Open Shizuku › Authorized
 applications and turn OpenDash on.
 
+**Installing or updating shows "App scan recommended".** Google Play Protect asks about apps it has
+not seen, and each new version of OpenDash or Dash Player is new to it. Tap **Scan app**, or **More
+details** › **Install without scanning**. Download OpenDash only from its releases page.
+
 **An app is missing from the app list.** The list shows apps with a launcher icon. Apps you have
 disabled (Settings › Apps › the app › Enable) do not appear.
 

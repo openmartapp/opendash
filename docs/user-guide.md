@@ -63,7 +63,9 @@ brings them back.
 - **Speed:** the speed and the speed limit show over the video, from the sources in Settings ›
   **Speed sources** (phone GPS, OpenStreetMap, WazeMod). The speed turns red when it is over the
   limit. Settings › **Speed bubble size** makes it smaller or larger; it sits on the driver's side
-  (Settings › **Driver on the right**). Installing and connecting WazeMod: [`wazemod.md`](wazemod.md).
+  (Settings › **Driver on the right**). To move it, tap it on the car screen (it grows a little),
+  then drag; it stays there. **Put it back on the driver's side**, under the bubble size, undoes
+  that. Installing and connecting WazeMod: [`wazemod.md`](wazemod.md).
 - **Player:** Settings › **YouTube player**. The YouTube website plays every video; the IFrame
   player is a plainer page, but videos their owners keep off other sites do not play in it.
 - **Picture quality** follows the car screen: 480p on a screen under 720 pixels high, 720p up to
@@ -71,8 +73,10 @@ brings them back.
   gets hot or the video stutters, see [Troubleshooting](troubleshooting.md).
 - **Sound behind other apps:** Settings › **Play on behind other apps** keeps the sound going
   while a map has the car screen; the media card controls it. Off by default.
-- YouTube's own rules apply: ads play as YouTube shows them, and OpenDash only offers to skip one
-  when YouTube does.
+- Ads play as YouTube shows them, and OpenDash offers to skip one when YouTube does. In the paid
+  version, Settings › **Skip YouTube's ads** (off by default) leaves them out. YouTube's terms do
+  not allow that, and YouTube may warn your Google account or stop playing videos: it is your
+  choice. Nothing changes for a YouTube Premium account, which has no ads.
 
 ## Cells: built-in and virtual-display modes
 

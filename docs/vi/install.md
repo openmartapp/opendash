@@ -10,6 +10,10 @@ cũng dẫn bạn qua đúng các bước này và tự đánh dấu từng bư�
 Tải `opendash-<phiên bản>.apk` từ [trang Releases](../../../../releases/latest) rồi mở file. Khi được
 hỏi, cho phép trình duyệt hoặc trình quản lý file cài app.
 
+Google Play Protect có thể hiện **Nên quét ứng dụng** ("Play Protect chưa từng thấy ứng dụng này"), cả
+khi Táp Lô tự cập nhật: nó chưa thấy file mới này. Chạm **Quét ứng dụng** để Google kiểm tra trước, hoặc
+**Chi tiết khác** › **Cài đặt mà không quét**.
+
 Cài thêm `dashplayer-<phiên bản>.apk` từ cùng bản phát hành nếu bạn muốn thẻ media của xe, nút media
 trên vô lăng và ô tìm kiếm của Android Auto điều khiển trình phát của Táp Lô. App này không có màn
 hình riêng; Android Auto liệt kê nó trong các app media với tên **Kênh Xe**.

@@ -58,6 +58,10 @@ qua Wi-Fi. Táp Lô có thể đóng vai HUD đó, ngay trên điện thoại:
    - rồi bật **Bật HUD WazeMod**.
 3. Mở bản đồ Waze. Dòng nguồn trong Táp Lô báo **Đã kết nối** khi màn hình xe đang mở Táp Lô.
 
+Táp Lô chỉ mở kết nối này khi màn hình xe đang hiện Táp Lô (như mọi nguồn tốc độ). Trước đó, ở nhà
+không nối xe, WazeMod báo không kết nối được: đó là bình thường. Dòng nguồn trong Táp Lô khi ấy báo
+**Mở khi xe hiện Táp Lô**.
+
 WazeMod chỉ nối được một HUD. Nếu bạn dùng HUD thật với WazeMod, để tắt nguồn này và dùng nguồn API
 dữ liệu, hoặc chọn một trong hai. Khi không tìm thấy HUD trong 2 phút, WazeMod ngừng tìm cho đến khi
 bản đồ Waze được mở lại; Táp Lô tự mở Waze khi màn hình xe bắt đầu (tùy chọn **Tự mở Waze khi chưa có

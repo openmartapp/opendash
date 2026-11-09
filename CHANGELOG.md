@@ -21,6 +21,17 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.0 (2026-11-09)
+
+- The speed bubble over the YouTube video can be moved: tap it on the car screen, then drag it.
+  It stays where you leave it and never covers the voice button. Settings › Speed bubble size ›
+  **Put it back on the driver's side** returns it to where it started.
+- Settings › Speed sources › WazeMod (Wi-Fi HUD link) now says the link opens only while the car
+  shows OpenDash; WazeMod cannot connect before that.
+- Paid version: Settings › **Skip YouTube's ads**, off by default, leaves out YouTube's ads. YouTube's
+  terms do not allow it, and YouTube may warn your Google account or stop playing videos. Nothing
+  changes for a YouTube Premium account.
+
 ### 0.2.1 (2026-11-08)
 
 - Fixed: after OpenDash was restarted, Update could fail with "Can't download" (a file name made

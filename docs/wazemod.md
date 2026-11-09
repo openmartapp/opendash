@@ -58,6 +58,10 @@ Wi-Fi. OpenDash can pose as that HUD, on the phone itself:
    - then turn on **Bật HUD WazeMod**.
 3. Open Waze's map. The row in OpenDash says **Connected** once the car screen shows OpenDash.
 
+OpenDash opens this link only while the car screen shows OpenDash (as every speed source). Before
+that, at home without the car, WazeMod says it cannot connect: that is expected. Its row in
+OpenDash then says **Opens when the car shows OpenDash**.
+
 WazeMod drives only one HUD. If you use a real HUD with WazeMod, leave this source off and keep the
 data API source, or pick one of the two. When WazeMod finds no HUD for 2 minutes it stops looking
 until Waze's map opens again; OpenDash opens Waze for it when the car screen starts (the **Open Waze

@@ -59,8 +59,9 @@ mọi thứ vẫn như cũ.
   dùng được khi đã cài [Kênh Xe](#kênh-xe-nút-media-của-xe).
 - **Tốc độ:** tốc độ và giới hạn tốc độ hiện trên video, lấy từ Cài đặt › **Nguồn tốc độ** (GPS điện
   thoại, OpenStreetMap, WazeMod). Số tốc độ chuyển đỏ khi vượt giới hạn. Cài đặt › **Cỡ bong bóng tốc
-  độ** cho to hay nhỏ; bong bóng nằm phía người lái (Cài đặt › **Tay lái bên phải**). Cài và kết nối
-  WazeMod: [`wazemod.md`](wazemod.md).
+  độ** cho to hay nhỏ; bong bóng nằm phía người lái (Cài đặt › **Tay lái bên phải**). Muốn dời chỗ,
+  chạm vào bong bóng trên màn hình xe (nó to lên một chút) rồi kéo; nó ở yên chỗ mới. **Đưa về phía
+  người lái**, dưới mục cỡ bong bóng, đưa nó về chỗ cũ. Cài và kết nối WazeMod: [`wazemod.md`](wazemod.md).
 - **Trình phát:** Cài đặt › **Trình phát YouTube**. **Trang YouTube** phát được mọi video; **Trình phát
   IFrame** gọn hơn, nhưng không phát được video mà chủ kênh không cho nhúng vào trang khác.
 - **Chất lượng hình** theo màn hình xe: 480p khi màn hình xe cao dưới 720 điểm ảnh, 720p tới 1440,
@@ -68,8 +69,10 @@ mọi thứ vẫn như cũ.
   Nếu máy nóng hoặc video giật, xem [Xử lý sự cố](troubleshooting.md).
 - **Âm thanh khi bị che:** Cài đặt › **Phát tiếp khi app khác che** giữ âm thanh khi bản đồ chiếm màn
   hình xe; thẻ media điều khiển nó. Mặc định tắt.
-- Quy định của YouTube vẫn áp dụng: quảng cáo hiện như YouTube cho hiện, và Táp Lô chỉ cho bỏ qua khi
-  chính YouTube cho bỏ qua.
+- Quảng cáo hiện như YouTube cho hiện, và Táp Lô cho bỏ qua khi YouTube cho bỏ qua. Ở bản trả phí,
+  Cài đặt › **Bỏ quảng cáo YouTube** (mặc định tắt) bỏ hẳn quảng cáo. Điều khoản của YouTube không
+  cho phép việc này, YouTube có thể cảnh báo tài khoản Google của bạn hoặc ngừng phát video: bạn tự
+  quyết định. Tài khoản YouTube Premium vốn không có quảng cáo nên không bị đụng tới.
 
 ## Các ô: chế độ Built-in và Màn hình ảo
 

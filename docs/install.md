@@ -10,6 +10,10 @@ app walks you through the same steps and ticks each one when it sees it done.
 Download `opendash-<version>.apk` from the [Releases page](../../../releases/latest) and open it. Allow your browser or file
 manager to install apps when asked.
 
+Google Play Protect may show **App scan recommended** ("Play Protect hasn't seen this app before"),
+also when OpenDash updates itself: it has not seen this new file yet. Tap **Scan app** to have
+Google check it first, or **More details** › **Install without scanning**.
+
 Also install `dashplayer-<version>.apk` from the same release if you want the car's media card,
 the steering-wheel media keys and Android Auto's search to control OpenDash's player. It has no
 screen of its own; Android Auto lists it with its media apps as **Dash Player**.
