@@ -120,6 +120,8 @@ lý Google. Kênh Xe (Dash Player) là app media đó của Táp Lô: cài `dash
 bản phát hành. App không có màn hình riêng. Khi có Kênh Xe:
 
 - Thẻ media hiện nội dung Táp Lô đang phát, kèm tốc độ và giới hạn, và các nút trên thẻ điều khiển nó.
+  Khi app khác (bản đồ) đang chiếm màn hình xe, kể cả khi chưa mở Táp Lô trong chuyến đi, nút phát
+  trên thẻ phát tiếp nội dung lần trước sau app đó, chỉ có tiếng.
 - Nút phát/tạm dừng, bài tiếp và bài trước trên vô lăng điều khiển trình phát của Táp Lô.
 - Tìm kiếm của Android Auto trong Kênh Xe, hoặc "Ok Google, phát nhạc jazz trên Kênh Xe", phát video
   YouTube đầu tiên tìm được trong Táp Lô.

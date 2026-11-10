@@ -21,6 +21,13 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.1 (2026-11-10)
+
+- Fixed: Play on the media card did nothing while another app filled the car screen. It now plays
+  what you played last.
+- The media card's picture shows only the speed limit sign.
+- The phone stays cooler while playing on the car.
+
 ### 0.3.0 (2026-11-09)
 
 - The speed bubble over the YouTube video can be moved: tap it on the car screen, then drag it.

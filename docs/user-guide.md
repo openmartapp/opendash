@@ -125,6 +125,8 @@ only to media apps. Dash Player is that media app for OpenDash: install `dashpla
 from the same release. It has no screen of its own. With it:
 
 - The media card shows what OpenDash plays, with the speed and limit, and its buttons control it.
+  While another app (a map) has the car screen, even if OpenDash was not opened on this drive, its
+  Play button plays what played last behind that app, sound only.
 - The steering-wheel play/pause, next and previous keys control OpenDash's player.
 - Android Auto's search in Dash Player, or "Hey Google, play jazz on Dash Player"
   ("phát nhạc jazz trên Kênh Xe" in Vietnamese), plays the first YouTube video found in OpenDash.
