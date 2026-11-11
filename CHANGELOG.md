@@ -21,6 +21,11 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.2 (2026-11-11)
+
+- Fixed: after a phone call, YouTube on the car could play on without sound. It now pauses for the
+  call and plays again with its sound once the call is over.
+
 ### 0.3.1 (2026-11-10)
 
 - Fixed: Play on the media card did nothing while another app filled the car screen. It now plays
