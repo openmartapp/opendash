@@ -21,6 +21,11 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.5-rc.1 (2026-11-12)
+
+- Test version: the exported log tells more about how the video plays, to find why it stutters on
+  some phones.
+
 ### 0.3.4 (2026-11-11)
 
 - Fixed: on Android 11, OpenDash closed by itself as YouTube opened on the car (0.3.2 and 0.3.3).
