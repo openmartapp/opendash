@@ -22,10 +22,13 @@ mọi thứ vẫn như cũ.
 ## Chế độ Trực tiếp: YouTube và thư viện media trên xe
 
 - **YouTube hoặc thư viện:** các nút ở trên cùng màn hình xe mở YouTube, **Thư viện** (album, bài hát,
-  video, stream, yêu thích) hoặc **Stream**. Mỗi lúc chỉ một bên phát: bên kia tạm dừng, thẻ media và
+  video, stream, radio, Shoutcast, yêu thích) hoặc **Stream**. Mỗi lúc chỉ một bên phát: bên kia tạm dừng, thẻ media và
   nút media của xe theo bên đang hiện. Danh sách nào cũng có dòng **Phát ngẫu nhiên** ở đầu. Thư viện
   được quản lý trên điện thoại, ở thẻ **Thư viện media** trên màn hình chính (quyền truy cập nhạc và
   video, stream và tệp, yêu thích); trên xe chỉ chọn để phát.
+- **Radio và Shoutcast:** mục **Radio** của thư viện có các đài radio của nước bạn, mục **Shoutcast**
+  có các đài Shoutcast được nghe nhiều nhất; chọn một đài để nghe. Danh sách lấy từ Internet và
+  được làm mới mỗi giờ; ☆ để lưu đài vào mục yêu thích.
 - **Phát tiếp từ chỗ dừng:** video hay bài hát mở lại sẽ phát tiếp từ chỗ đã dừng, kèm nút **Phát lại từ
   đầu** trong vài giây.
 - **Mở lại thứ đã phát gần nhất:** khi nối xe, Táp Lô mở và phát video YouTube hoặc tệp trong thư viện

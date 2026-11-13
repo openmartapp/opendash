@@ -21,6 +21,12 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.5-rc.2 (2026-11-13)
+
+- New in the library: Radio, with your country's radio stations, and Shoutcast, with its most
+  listened stations.
+- Fixed: some streams added to the library did not play.
+
 ### 0.3.5-rc.1 (2026-11-12)
 
 - Test version: the exported log tells more about how the video plays, to find why it stutters on

@@ -22,10 +22,13 @@ brings them back.
 ## Direct mode: YouTube and the media library on the car
 
 - **YouTube or the library:** the buttons at the top of the car screen show YouTube, the
-  **Library** (albums, songs, videos, streams, favorites) or the **Streams**. One plays at a time:
+  **Library** (albums, songs, videos, streams, radio, Shoutcast, favorites) or the **Streams**. One plays at a time:
   the other pauses, and the car's media card and keys follow the one shown. Every list starts with
   **Shuffle**. The library is managed on the phone, in the **Media library** card of the home
   screen (access to music and videos, streams and files, favorites); on the car you only pick.
+- **Radio and Shoutcast:** the library's **Radio** tab lists the radio stations of your country,
+  its **Shoutcast** tab the most listened Shoutcast stations; pick one to play. The lists come
+  from the internet and are refreshed every hour; ☆ keeps a station in your favorites.
 - **Pick up where it stopped:** a video or song opened again goes on from where it stopped, with
   **Start over** for a few seconds.
 - **Starts on what played last:** when the car connects, OpenDash opens on the last YouTube video
