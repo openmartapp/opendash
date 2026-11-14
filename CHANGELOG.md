@@ -21,6 +21,13 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.5-rc.3 (2026-11-14)
+
+- The free version now has every feature except voice commands and the YouTube player's controls
+  and extra options: the media library, radio, split screens and your apps, the car's buttons, the
+  speed and the next turn are free.
+- Radio and other sound-only streams show a music note instead of a black screen.
+
 ### 0.3.5-rc.2 (2026-11-13)
 
 - New in the library: Radio, with your country's radio stations, and Shoutcast, with its most
