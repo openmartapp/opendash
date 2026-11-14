@@ -58,7 +58,8 @@ brings them back.
   - With both, the voice button also works while Maps has the car screen: OpenDash listens without
     coming back ([voice commands](voice-commands.md)).
 
-- **Choose what plays:** on the phone, search in **Direct: YouTube on the car**; on the car, tap 🔍
+- **Choose what plays:** on the phone, search in **Direct: YouTube on the car** (or tap its 🎤 and
+  say it); on the car, tap 🔍
   at the top and type, or tap 🎤 and say it ([voice commands](voice-commands.md)).
 - **Browse:** the car's **Browse** button lists YouTube (recently played, recent searches, your
   account's lists), the media library, Radio, Shoutcast, search and voice commands, drawn by

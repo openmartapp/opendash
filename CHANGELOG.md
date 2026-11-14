@@ -21,6 +21,11 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.5-rc.5 (2026-11-14)
+
+- The car's lists show YouTube videos' pictures.
+- The phone's YouTube search has a microphone button: say what to find.
+
 ### 0.3.5-rc.4 (2026-11-14)
 
 - New on the car: **Browse**, lists of YouTube, the media library, radio and Shoutcast that a

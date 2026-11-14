@@ -55,7 +55,8 @@ mọi thứ vẫn như cũ.
   - Ở cả hai kiểu, nút giọng nói vẫn dùng được khi Maps đang hiện: Táp Lô nghe mà không hiện lại trên màn xe
     ([lệnh giọng nói](voice-commands.md)).
 
-- **Chọn nội dung:** trên điện thoại, tìm trong **Trực tiếp: YouTube trên xe**; trên xe, chạm 🔍 ở trên
+- **Chọn nội dung:** trên điện thoại, tìm trong **Trực tiếp: YouTube trên xe** (hoặc chạm 🎤 ở ô tìm rồi
+  nói); trên xe, chạm 🔍 ở trên
   cùng rồi gõ, hoặc chạm 🎤 rồi nói ([lệnh giọng nói](voice-commands.md)).
 - **Danh sách:** nút **Danh sách** trên xe liệt kê YouTube (đã xem gần đây, tìm gần đây, danh sách của
   tài khoản), thư viện media, Radio, Shoutcast, tìm kiếm và lệnh giọng nói, do chính Android Auto vẽ:
