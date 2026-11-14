@@ -21,6 +21,13 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.5-rc.4 (2026-11-14)
+
+- New on the car: **Browse**, lists of YouTube, the media library, radio and Shoutcast that a
+  rotary knob or touchpad can use as well as a finger.
+- For cars without a touch screen: a setting that puts Browse, Play/Pause and Next on the car's
+  buttons.
+
 ### 0.3.5-rc.3 (2026-11-14)
 
 - The free version now has every feature except voice commands and the YouTube player's controls

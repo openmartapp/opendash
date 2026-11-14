@@ -22,7 +22,7 @@ brings them back.
 ## Direct mode: YouTube and the media library on the car
 
 - **YouTube or the library:** the buttons at the top of the car screen show YouTube, the
-  **Library** (albums, songs, videos, streams, radio, Shoutcast, favorites) or the **Streams**. One plays at a time:
+  **Library** (albums, songs, videos, streams, radio, Shoutcast, favorites), or the **Browse** lists. One plays at a time:
   the other pauses, and the car's media card and keys follow the one shown. Every list starts with
   **Shuffle**. The library is managed on the phone, in the **Media library** card of the home
   screen (access to music and videos, streams and files, favorites); on the car you only pick.
@@ -60,6 +60,14 @@ brings them back.
 
 - **Choose what plays:** on the phone, search in **Direct: YouTube on the car**; on the car, tap 🔍
   at the top and type, or tap 🎤 and say it ([voice commands](voice-commands.md)).
+- **Browse:** the car's **Browse** button lists YouTube (recently played, recent searches, your
+  account's lists), the media library, Radio, Shoutcast, search and voice commands, drawn by
+  Android Auto itself: pick with a finger, a rotary knob or a touchpad.
+- **Cars without a touch screen** (a rotary knob, a touchpad or buttons, as on many Mazdas):
+  turn on Settings › **Car screen without touch**. The buttons at the top become **Browse**,
+  **Play**/**Pause**, **Next** and 🎤 (or 🔍 without voice commands): turn the knob to a button and
+  press it. Use the **Classic** car screen. Android Auto hides the buttons after a few seconds
+  without use: the first press shows them again.
 - **Controls:** tap the video for OpenDash's buttons: play/pause, back or forward 10 seconds, next
   video, captions, reload, and which player to use. The car's media card and steering-wheel media
   keys work too when [Dash Player](#dash-player-the-cars-media-controls) is installed.

@@ -22,7 +22,7 @@ mọi thứ vẫn như cũ.
 ## Chế độ Trực tiếp: YouTube và thư viện media trên xe
 
 - **YouTube hoặc thư viện:** các nút ở trên cùng màn hình xe mở YouTube, **Thư viện** (album, bài hát,
-  video, stream, radio, Shoutcast, yêu thích) hoặc **Stream**. Mỗi lúc chỉ một bên phát: bên kia tạm dừng, thẻ media và
+  video, stream, radio, Shoutcast, yêu thích), hoặc **Danh sách**. Mỗi lúc chỉ một bên phát: bên kia tạm dừng, thẻ media và
   nút media của xe theo bên đang hiện. Danh sách nào cũng có dòng **Phát ngẫu nhiên** ở đầu. Thư viện
   được quản lý trên điện thoại, ở thẻ **Thư viện media** trên màn hình chính (quyền truy cập nhạc và
   video, stream và tệp, yêu thích); trên xe chỉ chọn để phát.
@@ -57,6 +57,13 @@ mọi thứ vẫn như cũ.
 
 - **Chọn nội dung:** trên điện thoại, tìm trong **Trực tiếp: YouTube trên xe**; trên xe, chạm 🔍 ở trên
   cùng rồi gõ, hoặc chạm 🎤 rồi nói ([lệnh giọng nói](voice-commands.md)).
+- **Danh sách:** nút **Danh sách** trên xe liệt kê YouTube (đã xem gần đây, tìm gần đây, danh sách của
+  tài khoản), thư viện media, Radio, Shoutcast, tìm kiếm và lệnh giọng nói, do chính Android Auto vẽ:
+  chọn bằng tay, núm xoay hay touchpad đều được.
+- **Xe không có màn cảm ứng** (núm xoay, touchpad hoặc nút bấm, như nhiều xe Mazda): bật Cài đặt ›
+  **Màn xe không có cảm ứng**. Các nút trên cùng thành **Danh sách**, **Phát**/**Dừng**, **Bài tiếp** và 🎤
+  (hoặc 🔍 khi không bật lệnh giọng nói): xoay núm tới nút rồi nhấn. Nên dùng kiểu màn xe **Cổ điển**.
+  Android Auto ẩn các nút sau vài giây không dùng: lần nhấn đầu chỉ làm chúng hiện lại.
 - **Điều khiển:** chạm vào video để hiện các nút của Táp Lô: phát/tạm dừng, lùi hoặc tới 10 giây, video
   tiếp, **Phụ đề**, **Tải lại** và chọn **Trình phát**. Thẻ media của xe và nút media trên vô lăng cũng
   dùng được khi đã cài [Kênh Xe](#kênh-xe-nút-media-của-xe).
