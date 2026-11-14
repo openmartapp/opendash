@@ -21,6 +21,11 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.6-rc.2 (2026-11-14)
+
+- Fixed: after a long drive, YouTube could pause by itself and wait for someone to say they are
+  still watching.
+
 ### 0.3.6-rc.1 (2026-11-14)
 
 - Fixed: YouTube could stop between two videos of a list and wait for Play; it now plays on by
