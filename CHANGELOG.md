@@ -21,6 +21,10 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.6-rc.3 (2026-11-15)
+
+- Fixed: music or a video playing behind another app on the car stopped after a few minutes.
+
 ### 0.3.6-rc.2 (2026-11-14)
 
 - Fixed: after a long drive, YouTube could pause by itself and wait for someone to say they are
