@@ -21,6 +21,10 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.7-rc.1 (2026-11-15)
+
+- New: Android Auto's "For you" panel suggests videos to watch next and your favorites, with pictures; a tap plays it, even behind Maps. A setting turns it off.
+
 ### 0.3.6 (2026-11-15)
 
 - YouTube plays on more reliably: it no longer stops between two videos of a list, or pauses by
