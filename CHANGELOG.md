@@ -21,6 +21,10 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.7-rc.2 (2026-11-15)
+
+- Fixed: after Android Auto disconnected, music could go on playing on the phone.
+
 ### 0.3.7-rc.1 (2026-11-15)
 
 - New: Android Auto's "For you" panel suggests videos to watch next and your favorites, with pictures; a tap plays it, even behind Maps. A setting turns it off.
