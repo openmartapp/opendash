@@ -21,6 +21,14 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.6 (2026-11-15)
+
+- YouTube plays on more reliably: it no longer stops between two videos of a list, or pauses by
+  itself after a long drive to ask whether someone is still watching.
+- Music or a video playing behind another app on the car no longer stops after a few minutes.
+- Fixed: in the free version, YouTube on the car loaded the video again a few seconds after it
+  started.
+
 ### 0.3.6-rc.3 (2026-11-15)
 
 - Fixed: music or a video playing behind another app on the car stopped after a few minutes.
