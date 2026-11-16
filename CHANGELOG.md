@@ -21,6 +21,11 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.8 (2026-11-17)
+
+- The YouTube player's controls on the car (pause, seek, next), the Skip ad button, Start over and
+  the IFrame player are now in the free version.
+
 ### 0.3.8-rc.1 (2026-11-16)
 
 - The YouTube player's controls on the car (pause, seek, next), the Skip ad button, Start over and
