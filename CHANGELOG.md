@@ -21,6 +21,12 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.9-rc.1 (2026-11-17)
+
+- Sign in to YouTube with a code, as on a TV: enter it at google.com/device on any phone or
+  computer, with no sign-in page in the app. YouTube on the car then plays with your account (your
+  suggestions, Premium and history), and your lists show in the library on the car.
+
 ### 0.3.8 (2026-11-17)
 
 - The YouTube player's controls on the car (pause, seek, next), the Skip ad button, Start over and

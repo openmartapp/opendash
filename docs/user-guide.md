@@ -36,11 +36,14 @@ brings them back.
   for what played before it.
 - **Favorites:** ☆ while something plays on the car; the library's **Favorites** tab plays them,
   and the ☆ at the top of the phone's home screen manages them.
-- **Your YouTube account:** Settings › **YouTube account** › **Sign in** opens Google's sign-in
-  page on the phone. Once signed in, YouTube on the car suggests videos for you, and the library
-  gets a **YouTube** tab with your liked videos, Watch later, playlists, mixes and history: pick a
-  list, then a video; the rest of the list plays after it. Videos played on the car go into your
-  YouTube history. **Sign out** in the same place.
+- **Your YouTube account:** Settings › **YouTube account** › **Sign in with a TV code** shows a
+  code, as a TV does: open google.com/device on this phone or any phone or computer signed in to
+  Google, enter the code and pick your account; the screen closes by itself. YouTube on the car
+  then plays **YouTube's TV page** with your account: your suggestions, your Premium, and what you
+  watch goes into your history. The library gets a **YouTube** tab with your liked videos, Watch
+  later, playlists and history: pick a list, then a video; the rest of the list plays after it.
+  **Sign in to YouTube** (Google's sign-in page in the app) signs in the YouTube website and IFrame
+  players instead. **Sign out** in the same place leaves both.
 - **Next turn:** while Google Maps guides, its next turn shows beside the 🎤, read from its
   notification once you allow OpenDash to read notifications (nothing is stored). Settings ›
   **Next turn in Dash Player's card** shows it in the media card too.
@@ -79,7 +82,8 @@ brings them back.
   then drag; it stays there. **Put it back on the driver's side**, under the bubble size, undoes
   that. Installing and connecting WazeMod: [`wazemod.md`](wazemod.md).
 - **Player:** Settings › **YouTube player**. The YouTube website plays every video; the IFrame
-  player is a plainer page, but videos their owners keep off other sites do not play in it.
+  player is a plainer page, but videos their owners keep off other sites do not play in it; the
+  YouTube TV page (once signed in with a TV code) plays as YouTube's TV app does, with your account.
 - **Picture quality** follows the car screen: 480p on a screen under 720 pixels high, 720p up to
   1440, 1080p above. It keeps the phone cooler; a slow connection can still lower it. If the phone
   gets hot or the video stutters, see [Troubleshooting](troubleshooting.md).
@@ -153,7 +157,7 @@ Tap 🎤 at the top of the car screen and speak. Settings, the rules and how to 
 | Setting | What it does |
 | --- | --- |
 | **Display mode** | Direct, Built-in or Virtual displays (above) |
-| **YouTube player** | YouTube website or IFrame player, for Direct mode |
+| **YouTube player** | YouTube website, IFrame player, or YouTube TV page (once signed in with a TV code), for Direct mode |
 | **Play on behind other apps** | Keep the video's sound while another app has the car screen |
 | **Theme**, **Language** | The phone app's look and language (on Android 11 and 12 the car keeps the phone's language) |
 | **Text and icon size** | Density of the apps in the cells |

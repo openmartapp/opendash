@@ -35,11 +35,13 @@ mọi thứ vẫn như cũ.
   bạn phát gần nhất; stream (radio, link trực tiếp) được bỏ qua để phát thứ trước đó.
 - **Yêu thích:** bấm ☆ khi đang phát trên xe; thẻ **Yêu thích** của thư viện phát lại chúng, còn nút ☆ ở
   trên cùng màn hình chính của điện thoại để quản lý.
-- **Tài khoản YouTube của bạn:** Cài đặt › **Tài khoản YouTube** › **Đăng nhập** mở trang đăng nhập của
-  Google trên điện thoại. Đăng nhập xong, YouTube trên xe đề xuất video theo tài khoản của bạn, thư viện
-  có thêm thẻ **YouTube** với video đã thích, Xem sau, danh sách phát, danh sách kết hợp và video đã xem:
-  chọn một danh sách rồi một video, phần còn lại của danh sách phát tiếp sau đó. Video phát trên xe vào
-  lịch sử YouTube của bạn. **Đăng xuất** cũng ở chỗ đó.
+- **Tài khoản YouTube của bạn:** Cài đặt › **Tài khoản YouTube** › **Đăng nhập bằng mã TV** hiện một mã,
+  như trên TV: mở google.com/device trên điện thoại này hoặc điện thoại, máy tính nào đã đăng nhập Google,
+  nhập mã rồi chọn tài khoản; màn hình tự đóng. YouTube trên xe khi đó phát **trang YouTube TV** bằng tài
+  khoản của bạn: đề xuất theo tài khoản, Premium của bạn, và video xem trên xe vào lịch sử. Thư viện có thêm
+  thẻ **YouTube** với video đã thích, Xem sau, danh sách phát và video đã xem: chọn một danh sách rồi một
+  video, phần còn lại của danh sách phát tiếp sau đó. **Đăng nhập YouTube** (trang đăng nhập của Google
+  trong app) thì đăng nhập cho trình phát trang YouTube và IFrame. **Đăng xuất** cũng ở chỗ đó, thoát cả hai.
 - **Hướng rẽ kế tiếp:** khi Google Maps đang dẫn đường, hướng rẽ kế tiếp hiện cạnh nút 🎤, đọc từ thông báo
   của Maps khi bạn cho Táp Lô đọc thông báo (không lưu lại). Cài đặt › **Hướng rẽ trong thẻ Kênh Xe** hiện
   thêm trong thẻ media.
@@ -74,7 +76,8 @@ mọi thứ vẫn như cũ.
   chạm vào bong bóng trên màn hình xe (nó to lên một chút) rồi kéo; nó ở yên chỗ mới. **Đưa về phía
   người lái**, dưới mục cỡ bong bóng, đưa nó về chỗ cũ. Cài và kết nối WazeMod: [`wazemod.md`](wazemod.md).
 - **Trình phát:** Cài đặt › **Trình phát YouTube**. **Trang YouTube** phát được mọi video; **Trình phát
-  IFrame** gọn hơn, nhưng không phát được video mà chủ kênh không cho nhúng vào trang khác.
+  IFrame** gọn hơn, nhưng không phát được video mà chủ kênh không cho nhúng vào trang khác; **Trang
+  YouTube TV** (khi đã đăng nhập bằng mã TV) phát như app YouTube trên TV, bằng tài khoản của bạn.
 - **Chất lượng hình** theo màn hình xe: 480p khi màn hình xe cao dưới 720 điểm ảnh, 720p tới 1440,
   1080p khi cao hơn. Việc này giúp điện thoại mát hơn; mạng chậm thì YouTube vẫn có thể hạ thấp hơn.
   Nếu máy nóng hoặc video giật, xem [Xử lý sự cố](troubleshooting.md).
@@ -146,7 +149,7 @@ Chạm 🎤 ở trên cùng màn hình xe rồi nói. Cài đặt, bộ lệnh v
 | Cài đặt | Tác dụng |
 | --- | --- |
 | **Chế độ hiển thị** | Trực tiếp, Built-in hoặc Màn hình ảo (ở trên) |
-| **Trình phát YouTube** | Trang YouTube hoặc Trình phát IFrame, cho chế độ Trực tiếp |
+| **Trình phát YouTube** | Trang YouTube, Trình phát IFrame, hoặc Trang YouTube TV (khi đã đăng nhập bằng mã TV), cho chế độ Trực tiếp |
 | **Phát tiếp khi app khác che** | Giữ âm thanh video khi app khác chiếm màn hình xe |
 | **Giao diện**, **Ngôn ngữ** | Giao diện và ngôn ngữ của app trên điện thoại (trên Android 11 và 12, màn hình xe giữ ngôn ngữ của điện thoại) |
 | **Cỡ chữ và biểu tượng** | Mật độ hiển thị của app trong các ô |
