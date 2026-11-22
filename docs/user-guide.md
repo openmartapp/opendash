@@ -60,6 +60,12 @@ brings them back.
     cannot fill the screen.
   - With both, the voice button also works while Maps has the car screen: OpenDash listens without
     coming back ([voice commands](voice-commands.md)).
+- **Compatibility mode:** on some phones Android Auto does not list OpenDash at all, even with
+  Unknown sources on. Turn on Settings › **Compatibility mode** (in every display mode) and connect
+  again: OpenDash then opens on the car in another way and fills the screen. Its own buttons and
+  lists work as usual (tap, swipe, the car's Back), but there is no car keyboard or voice commands
+  yet: search on the phone. The phone suggests it when OpenDash has not opened on the car for a
+  few connections.
 
 - **Choose what plays:** on the phone, search in **Direct: YouTube on the car** (or tap its 🎤 and
   say it); on the car, tap 🔍

@@ -21,6 +21,13 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.10-rc.1 (2026-11-22)
+
+- Compatibility mode, for phones where OpenDash does not show in Android Auto's list of apps:
+  Settings › Compatibility mode, then connect again. The phone suggests it when OpenDash has not
+  opened on the car for a while. In this mode, search on the phone: there is no car keyboard or
+  voice commands yet.
+
 ### 0.3.9 (2026-11-18)
 
 - Sign in to YouTube with a code, as on a TV: enter it at google.com/device on any phone or

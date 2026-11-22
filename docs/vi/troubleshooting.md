@@ -27,7 +27,9 @@ hiệu hoá không hiện.
 ## Android Auto
 
 **Táp Lô không có trong danh sách app trên xe.** Bật chế độ nhà phát triển và **Nguồn không xác định**
-của Android Auto ([hướng dẫn cài đặt](install.md), bước 7), rồi ngắt và kết nối lại xe.
+của Android Auto ([hướng dẫn cài đặt](install.md), bước 7), rồi ngắt và kết nối lại xe. Nếu vẫn không thấy,
+bật Táp Lô › Cài đặt › **Chế độ tương thích** rồi kết nối lại: trên một số máy, Android Auto chỉ hiện Táp Lô
+theo cách này.
 
 **Android Auto bị tắt sau khi đổi Cài đặt › Màn hình xe.** Thanh dưới của Android Auto có thể giữ biểu
 tượng cũ của Táp Lô vài phút, và chạm vào biểu tượng đó làm Android Auto tắt. Hãy mở Táp Lô từ danh sách

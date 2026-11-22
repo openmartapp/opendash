@@ -56,6 +56,11 @@ mọi thứ vẫn như cũ.
     không chiếm cả màn hình được.
   - Ở cả hai kiểu, nút giọng nói vẫn dùng được khi Maps đang hiện: Táp Lô nghe mà không hiện lại trên màn xe
     ([lệnh giọng nói](voice-commands.md)).
+- **Chế độ tương thích:** trên một số máy, Android Auto không hiện Táp Lô dù đã bật Nguồn không xác định.
+  Bật Cài đặt › **Chế độ tương thích** (có ở mọi chế độ hiển thị) rồi kết nối lại: Táp Lô sẽ mở trên xe theo
+  cách khác và chiếm cả màn hình. Nút và danh sách của Táp Lô vẫn dùng như thường (chạm, vuốt, nút Quay lại
+  của xe), nhưng chưa có bàn phím trên xe và lệnh giọng nói: hãy tìm trên điện thoại. Điện thoại tự gợi ý
+  chế độ này khi Táp Lô không mở trên xe sau vài lần kết nối.
 
 - **Chọn nội dung:** trên điện thoại, tìm trong **Trực tiếp: YouTube trên xe** (hoặc chạm 🎤 ở ô tìm rồi
   nói); trên xe, chạm 🔍 ở trên

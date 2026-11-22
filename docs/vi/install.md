@@ -70,6 +70,9 @@ Android Auto chỉ hiện app ngoài Play Store khi bật chế độ nhà phát
 Nếu Android Auto đang bị tắt trên điện thoại, nút đó mở trang của nó trên cửa hàng: bật lại ở đó.
 Cập nhật Android Auto nếu phiên bản cũ hơn 17.
 
+Nếu kết nối lại mà Táp Lô vẫn không có trong danh sách app trên xe, bật Táp Lô › Cài đặt › **Chế độ tương
+thích** rồi kết nối lại lần nữa ([hướng dẫn sử dụng](user-guide.md)).
+
 ## 8. Chọn nội dung và kết nối xe
 
 Trong Táp Lô, chọn chế độ hiển thị ở Cài đặt. Ở chế độ Màn hình ảo hoặc Built-in, chọn bố cục và app

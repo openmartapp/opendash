@@ -72,6 +72,9 @@ Android Auto only lists apps from outside the Play Store in its developer mode:
 If Android Auto is turned off on your phone, the button opens its store page instead: turn it back
 on there. Update Android Auto if it is older than version 17.
 
+If OpenDash is still missing from the car's list of apps after you connect again, turn on
+OpenDash › Settings › **Compatibility mode** and connect once more ([user guide](user-guide.md)).
+
 ## 8. Choose your apps and connect the car
 
 In OpenDash, choose the display mode in Settings. In virtual-display or built-in mode, pick a

@@ -28,7 +28,9 @@ disabled (Settings › Apps › the app › Enable) do not appear.
 ## Android Auto
 
 **OpenDash is not in the car's app launcher.** Turn on Android Auto developer mode and **Unknown
-sources** (install guide, step 7), then disconnect and reconnect the car.
+sources** (install guide, step 7), then disconnect and reconnect the car. If it is still missing,
+turn on OpenDash › Settings › **Compatibility mode** and reconnect: on some phones Android Auto lists
+OpenDash only that way.
 
 **Android Auto shows "Communication error 14" with the Desktop Head Unit.** The DHU's certificate
 has expired for older Android Auto versions; update Android Auto (17.x works).
