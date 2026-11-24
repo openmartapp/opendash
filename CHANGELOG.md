@@ -21,6 +21,10 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.10-rc.2 (2026-11-24)
+
+- Fixed: after the car was switched off, YouTube or music could go on playing on the phone.
+
 ### 0.3.10-rc.1 (2026-11-22)
 
 - Compatibility mode, for phones where OpenDash does not show in Android Auto's list of apps:
