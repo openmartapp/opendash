@@ -107,7 +107,10 @@ brings them back.
 - The preview shows the car's frame. Tap a cell to choose what it shows: **Apps** (virtual
   displays) or **Websites & media** (built-in: popular and your own websites, the media library,
   streams and files you added).
-- Pick a layout: **Full**, **Side by side**, **Stacked**, **1 + 2** or **2 × 2**.
+- Pick a layout: **Full**, **Side by side**, **Stacked**, **1 + 2** or **2 × 2**. In virtual-display
+  mode there is also **Map and video**: your navigation app on the driver's side and the YouTube
+  video on the passenger's. Set the driver's side in Settings › **Driver on the right**; the two
+  halves swap without restarting either one. The same choice is in the car's **Layout** list.
 - Drag the grey handle on the line between two cells to resize them; drag past a third of the
   screen to hide one ("Release to hide"), and drag it back from the edge to show it again.
 - Tap the heart next to an app to make it a favorite: favorites come first, on the phone and on
@@ -122,6 +125,9 @@ brings them back.
   seconds. Android Auto also shows an OpenDash button in its top corner that opens the same menu.
 - Tap a resize handle to move the line to a third, half or two thirds of the screen, or to give
   one cell the whole screen.
+- Settings › **Video while the car moves** is on by default. Turn it off and the YouTube video
+  pauses while the car moves and plays again when it stops; it needs the phone's location. Rules about
+  video in the driver's view differ by country, and you are responsible for following them.
 - **Info** shows the screen area and lets you set up **Car buttons**.
 
 ## Buttons on the car, the phone or a remote

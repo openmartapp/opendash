@@ -104,6 +104,12 @@ under Display. On a test phone this left fewer dropped video frames and less wor
 Charging, wireless Android Auto and sun on the phone also warm it up: a cable and a shaded,
 ventilated holder help.
 
+- **The video stops while I drive.** Settings › **Video while the car moves** is off. Turn it on to
+  let the video play at any speed. When it is off, the video needs the phone's location; without it
+  the video is never paused.
+- **The map and the video are on the wrong sides in "Map and video".** Change Settings › **Driver on
+  the right**.
+
 ## Dash Player and the car's media controls
 
 **Dash Player is not in Android Auto's media apps.** Install `dashplayer-<version>.apk` from the

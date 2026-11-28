@@ -79,6 +79,10 @@ và WebView giữ nhịp đó suốt lúc xe hiện video, kể cả khi màn h�
 cách này giảm số khung hình video bị bỏ và giảm tải cho điện thoại. Sạc, Android Auto không dây và
 nắng chiếu cũng làm máy nóng thêm: dùng cáp và đặt máy ở giá đỡ thoáng, có bóng râm sẽ đỡ hơn.
 
+- **Video dừng khi tôi lái xe.** Cài đặt › **Video khi xe đang chạy** đang tắt. Bật lên để video phát ở
+  mọi tốc độ. Khi tắt, video cần vị trí của điện thoại; không có thì video không bao giờ bị dừng.
+- **Bản đồ và video nằm sai bên trong "Bản đồ và video".** Đổi Cài đặt › **Tay lái bên phải**.
+
 ## Kênh Xe và nút media của xe
 
 **Kênh Xe không có trong các app media của Android Auto.** Cài `dashplayer-<phiên bản>.apk` từ cùng bản

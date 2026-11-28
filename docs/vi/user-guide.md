@@ -99,7 +99,10 @@ mọi thứ vẫn như cũ.
 
 - Khung xem trước là khung hình của xe. Chạm một ô để chọn nội dung: **Ứng dụng** (Màn hình ảo) hoặc
   **Website & media** (Built-in: website phổ biến và của bạn, thư viện media, stream và file bạn đã thêm).
-- Chọn bố cục: **Toàn màn hình**, **Chia đôi ngang**, **Chia đôi dọc**, **1 + 2** hoặc **2 × 2**.
+- Chọn bố cục: **Toàn màn hình**, **Chia đôi ngang**, **Chia đôi dọc**, **1 + 2** hoặc **2 × 2**. Ở chế độ
+  Màn hình ảo còn có **Bản đồ và video**: ứng dụng dẫn đường ở phía tài xế, video YouTube ở phía hành
+  khách. Chọn bên tài xế ở Cài đặt › **Tay lái bên phải**; hai nửa đổi chỗ mà không phải khởi động lại.
+  Lựa chọn này cũng có trong danh sách **Bố cục** trên xe.
 - Kéo tay nắm xám trên đường chia giữa hai ô để đổi cỡ; kéo quá một phần ba màn hình để ẩn một ô
   ("**Thả tay để ẩn ô này**"), và kéo tay nắm từ mép màn hình vào để hiện lại.
 - Chạm hình trái tim cạnh một app để thêm vào yêu thích: app yêu thích luôn đứng đầu, trên điện thoại
@@ -107,6 +110,9 @@ mọi thứ vẫn như cũ.
 
 **Trên xe**
 
+- Cài đặt › **Video khi xe đang chạy** mặc định bật. Tắt đi thì video YouTube dừng khi xe chạy và phát
+  lại khi xe dừng; cần vị trí của điện thoại. Luật về video trong tầm nhìn của tài xế khác nhau theo
+  từng nước, bạn tự chịu trách nhiệm tuân thủ.
 - Chạm một ô để chọn (viền xanh). Kéo, cuộn và vuốt đi tới ô đang chọn; chụm hai ngón thì tới đúng chỗ
   bạn chụm.
 - Nút tròn Táp Lô trên đường chia giữa các ô mở **Bố cục**, **Quay lại**, **Ứng dụng** (**Chọn** ở chế

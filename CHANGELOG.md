@@ -21,6 +21,11 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.10-rc.4 (2026-11-28)
+
+- New: a "Map and video" layout, with your navigation app on the driver's side and the YouTube video on the passenger's. Choose the driver's side in Settings.
+- New: a setting to pause the video while the car moves.
+
 ### 0.3.10-rc.3 (2026-11-25)
 
 - New: in Direct mode, a card on the phone's home screen shows what plays, with play/pause, previous/next, 10 seconds back/forward and a bar to move in the video or song.
