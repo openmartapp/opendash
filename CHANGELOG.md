@@ -21,6 +21,10 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.10-rc.7 (2026-11-28)
+
+- Fixed: the download was unintentionally about twice the size in 0.3.10-rc.6.
+
 ### 0.3.10-rc.6 (2026-11-28)
 
 - New: build your own layout. Split any cell into a new row or column (up to three in a line, four cells in all, nested freely), or delete one, from the phone's Virtual display card or the car's Layout list.
