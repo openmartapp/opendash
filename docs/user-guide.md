@@ -113,8 +113,12 @@ brings them back.
   which needs no Shizuku and no debugging, it is Google Maps' website. While it plays, the phone's
   home screen shows the video's controls. Set the driver's side in Settings › **Driver on the right**; the two
   halves swap without restarting either one. The same choice is in the car's **Layout** list.
-- Drag the grey handle on the line between two cells to resize them; drag past a third of the
-  screen to hide one ("Release to hide"), and drag it back from the edge to show it again.
+- Drag the grey handle on the line between two cells to resize them; drag past about a fifth of
+  the screen to hide one ("Release to hide"), and drag it back from the edge to show it again.
+- Build your own layout: under a cell, **Split row** or **Split column** adds a new cell beside or
+  below it (up to three cells in one line, four cells in all; split again to nest a row inside a
+  column or a column inside a row), and **Delete** removes it, giving its room back to the cell
+  before it. The same three choices are in the car's **Layout** list, under **Cell options**.
 - Tap the heart next to an app to make it a favorite: favorites come first, on the phone and on
   the car.
 

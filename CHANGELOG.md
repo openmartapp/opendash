@@ -21,6 +21,11 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.10-rc.6 (2026-11-28)
+
+- New: build your own layout. Split any cell into a new row or column (up to three in a line, four cells in all, nested freely), or delete one, from the phone's Virtual display card or the car's Layout list.
+- New: drag any divider freely on the phone and in compatibility mode; a cell shrunk to about a fifth of the screen hides, and comes back when its handle is dragged out again.
+
 ### 0.3.10-rc.5 (2026-11-28)
 
 - New: "Map and video" also works without Shizuku or debugging, with Google Maps' website next to the video. The phone's home screen has the video's controls while it plays.

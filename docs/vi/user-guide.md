@@ -105,8 +105,12 @@ mọi thứ vẫn như cũ.
   cần bật gỡ lỗi, đó là trang web Google Maps. Khi đang phát, màn hình chính của điện thoại có nút điều
   khiển video. Chọn bên tài xế ở Cài đặt › **Tay lái bên phải**; hai nửa đổi chỗ mà không phải khởi động lại.
   Lựa chọn này cũng có trong danh sách **Bố cục** trên xe.
-- Kéo tay nắm xám trên đường chia giữa hai ô để đổi cỡ; kéo quá một phần ba màn hình để ẩn một ô
-  ("**Thả tay để ẩn ô này**"), và kéo tay nắm từ mép màn hình vào để hiện lại.
+- Kéo tay nắm xám trên đường chia giữa hai ô để đổi cỡ; kéo quá khoảng một phần năm màn hình để ẩn
+  một ô ("**Thả tay để ẩn ô này**"), và kéo tay nắm từ mép màn hình vào để hiện lại.
+- Tự tạo bố cục riêng: dưới mỗi ô, **Chia hàng** hoặc **Chia cột** thêm một ô mới bên cạnh hoặc bên
+  dưới (tối đa 3 ô trên một hàng hoặc cột, 4 ô tất cả; chia tiếp để lồng hàng trong cột hoặc cột
+  trong hàng), và **Xoá** gỡ ô đó, trả lại chỗ cho ô đứng trước nó. Ba lựa chọn này cũng có trên xe,
+  trong danh sách **Bố cục**, mục **Tùy chọn ô**.
 - Chạm hình trái tim cạnh một app để thêm vào yêu thích: app yêu thích luôn đứng đầu, trên điện thoại
   và trên xe.
 
