@@ -107,9 +107,11 @@ brings them back.
 - The preview shows the car's frame. Tap a cell to choose what it shows: **Apps** (virtual
   displays) or **Websites & media** (built-in: popular and your own websites, the media library,
   streams and files you added).
-- Pick a layout: **Full**, **Side by side**, **Stacked**, **1 + 2** or **2 × 2**. In virtual-display
-  mode there is also **Map and video**: your navigation app on the driver's side and the YouTube
-  video on the passenger's. Set the driver's side in Settings › **Driver on the right**; the two
+- Pick a layout: **Full**, **Side by side**, **Stacked**, **1 + 2** or **2 × 2**. There is also
+  **Map and video**: a map on the driver's side and the YouTube video on the passenger's. In
+  virtual-display mode the map is your navigation app (Google Maps if you have it); in built-in mode,
+  which needs no Shizuku and no debugging, it is Google Maps' website. While it plays, the phone's
+  home screen shows the video's controls. Set the driver's side in Settings › **Driver on the right**; the two
   halves swap without restarting either one. The same choice is in the car's **Layout** list.
 - Drag the grey handle on the line between two cells to resize them; drag past a third of the
   screen to hide one ("Release to hide"), and drag it back from the edge to show it again.

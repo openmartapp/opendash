@@ -99,9 +99,11 @@ mọi thứ vẫn như cũ.
 
 - Khung xem trước là khung hình của xe. Chạm một ô để chọn nội dung: **Ứng dụng** (Màn hình ảo) hoặc
   **Website & media** (Built-in: website phổ biến và của bạn, thư viện media, stream và file bạn đã thêm).
-- Chọn bố cục: **Toàn màn hình**, **Chia đôi ngang**, **Chia đôi dọc**, **1 + 2** hoặc **2 × 2**. Ở chế độ
-  Màn hình ảo còn có **Bản đồ và video**: ứng dụng dẫn đường ở phía tài xế, video YouTube ở phía hành
-  khách. Chọn bên tài xế ở Cài đặt › **Tay lái bên phải**; hai nửa đổi chỗ mà không phải khởi động lại.
+- Chọn bố cục: **Toàn màn hình**, **Chia đôi ngang**, **Chia đôi dọc**, **1 + 2** hoặc **2 × 2**. Còn có
+  **Bản đồ và video**: bản đồ ở phía tài xế, video YouTube ở phía hành khách. Ở chế độ Màn hình ảo, bản
+  đồ là ứng dụng dẫn đường của bạn (Google Maps nếu có); ở chế độ Built-in, không cần Shizuku và không
+  cần bật gỡ lỗi, đó là trang web Google Maps. Khi đang phát, màn hình chính của điện thoại có nút điều
+  khiển video. Chọn bên tài xế ở Cài đặt › **Tay lái bên phải**; hai nửa đổi chỗ mà không phải khởi động lại.
   Lựa chọn này cũng có trong danh sách **Bố cục** trên xe.
 - Kéo tay nắm xám trên đường chia giữa hai ô để đổi cỡ; kéo quá một phần ba màn hình để ẩn một ô
   ("**Thả tay để ẩn ô này**"), và kéo tay nắm từ mép màn hình vào để hiện lại.

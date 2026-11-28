@@ -21,6 +21,11 @@ First public version.
   Vietnamese; directions sent to the navigation app that is guiding.
 - Setup wizard, log export, English and Vietnamese (Táp Lô and Kênh Xe on Vietnamese phones).
 
+### 0.3.10-rc.5 (2026-11-28)
+
+- New: "Map and video" also works without Shizuku or debugging, with Google Maps' website next to the video. The phone's home screen has the video's controls while it plays.
+- Fixed: on Android 11, a video in a cell could stay black or stuck after the layout changed.
+
 ### 0.3.10-rc.4 (2026-11-28)
 
 - New: a "Map and video" layout, with your navigation app on the driver's side and the YouTube video on the passenger's. Choose the driver's side in Settings.
